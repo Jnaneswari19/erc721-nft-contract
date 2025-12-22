@@ -1,5 +1,6 @@
+# 🖼️ ERC-721 NFT Smart Contract
+A complete, testable, and Dockerized NFT contract built with Hardhat and Solidity.
 
-# 🖼️ NFT Smart Contract Project
 
 ## 📌 Overview
 This project implements a fully functional **ERC‑721 NFT smart contract** with:
